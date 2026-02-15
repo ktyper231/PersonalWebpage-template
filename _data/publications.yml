@@ -1,0 +1,38 @@
+- title: "Sample Paper Title: A Novel Approach to Something Important"
+  authors: "<strong>Your Name</strong>, Coauthor One, Coauthor Two"
+  venue: "Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)"
+  year: 2025
+  links:
+    - label: "PDF"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "#"
+    - label: "DOI"
+      icon: "fas fa-fw fa-link"
+      url: "#"
+    - label: "Code"
+      icon: "fab fa-fw fa-github"
+      url: "#"
+
+- title: "Another Research Paper on Machine Learning Applications"
+  authors: "Coauthor One, <strong>Your Name</strong>, Coauthor Three"
+  venue: "IEEE Transactions on Neural Networks and Learning Systems"
+  year: 2024
+  links:
+    - label: "PDF"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "#"
+    - label: "DOI"
+      icon: "fas fa-fw fa-link"
+      url: "#"
+
+- title: "Understanding User Behavior in Interactive Systems"
+  authors: "<strong>Your Name</strong>, Coauthor Two"
+  venue: "ACM Symposium on User Interface Software and Technology (UIST)"
+  year: 2023
+  links:
+    - label: "PDF"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "#"
+    - label: "Slides"
+      icon: "fas fa-fw fa-presentation"
+      url: "#"

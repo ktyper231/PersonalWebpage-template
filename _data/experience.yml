@@ -1,0 +1,19 @@
+- title: "Research Assistant"
+  organization: "XYZ University, Department of Computer Science"
+  date: "Sep 2022 – Present"
+  description: "Conducting research on human-computer interaction and machine learning. Leading projects on AI-assisted design tools and user behavior analysis."
+
+- title: "Software Engineering Intern"
+  organization: "Tech Company Inc."
+  date: "Jun 2022 – Aug 2022"
+  description: "Developed machine learning pipelines for production systems. Collaborated with cross-functional teams to deploy NLP models at scale."
+
+- title: "Teaching Assistant"
+  organization: "XYZ University"
+  date: "Jan 2021 – May 2022"
+  description: "TA for Introduction to Machine Learning (CS 101) and Data Structures (CS 201). Held office hours and graded assignments for 200+ students."
+
+- title: "Undergraduate Researcher"
+  organization: "ABC University, AI Lab"
+  date: "Sep 2019 – Jun 2021"
+  description: "Explored applications of deep learning in medical imaging. Published first-author paper at a top-tier venue."

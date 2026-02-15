@@ -1,0 +1,29 @@
+- title: "AI-Assisted Design Tool"
+  description: "An intelligent design assistant that leverages large language models to help users create UI prototypes through natural language interaction."
+  links:
+    - label: "Demo"
+      icon: "fas fa-fw fa-globe"
+      url: "#"
+    - label: "Code"
+      icon: "fab fa-fw fa-github"
+      url: "#"
+    - label: "Paper"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "#"
+
+- title: "User Behavior Analytics Platform"
+  description: "A web-based platform for analyzing and visualizing user interaction patterns in complex software systems using machine learning techniques."
+  links:
+    - label: "Code"
+      icon: "fab fa-fw fa-github"
+      url: "#"
+
+- title: "Medical Image Segmentation"
+  description: "Deep learning pipeline for automated segmentation of medical images, achieving state-of-the-art performance on benchmark datasets."
+  links:
+    - label: "Paper"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "#"
+    - label: "Code"
+      icon: "fab fa-fw fa-github"
+      url: "#"

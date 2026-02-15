@@ -1,0 +1,21 @@
+<section id="publications" class="page__content">
+  <h2 class="page__title">PUBLICATIONS</h2>
+  <div class="entries-list">
+    {% for pub in site.data.publications %}
+    <div class="list__item">
+      <article class="archive__item">
+        <h3 class="archive__item-title no_toc">{{ pub.title }}</h3>
+        <p class="archive__item-excerpt">
+          {{ pub.authors }}<br>
+          <em>{{ pub.venue }}</em>, {{ pub.year }}
+        </p>
+        <p>
+          {% for link in pub.links %}
+            <a href="{{ link.url }}" class="btn btn--primary btn--small"><i class="{{ link.icon }}"></i> {{ link.label }}</a>
+          {% endfor %}
+        </p>
+      </article>
+    </div>
+    {% endfor %}
+  </div>
+</section>
