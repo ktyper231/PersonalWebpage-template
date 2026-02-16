@@ -1,5 +1,5 @@
 - title: "Sample Paper Title: A Novel Approach to Something Important"
-  authors: "<strong>Your Name</strong>, Coauthor One, Coauthor Two"
+  authors: "<strong>Your Name</strong>, Coauthor One, Coauthor Two*"
   venue: "Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)"
   year: 2025
   links:
@@ -14,7 +14,7 @@
       url: "#"
 
 - title: "Another Research Paper on Machine Learning Applications"
-  authors: "Coauthor One, <strong>Your Name</strong>, Coauthor Three"
+  authors: "Coauthor One*, <strong>Your Name</strong>, Coauthor Three"
   venue: "IEEE Transactions on Neural Networks and Learning Systems"
   year: 2024
   links:
@@ -25,8 +25,8 @@
       icon: "fas fa-fw fa-link"
       url: "#"
 
-- title: "Understanding User Behavior in Interactive Systems"
-  authors: "<strong>Your Name</strong>, Coauthor Two"
+- title: "CoIntelligent XXX: An Interactive Super Framework for XYZ in Agentic Agents"
+  authors: "<strong>Your Name</strong>, Coauthor Two*"
   venue: "ACM Symposium on User Interface Software and Technology (UIST)"
   year: 2023
   links:
